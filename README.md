@@ -1,7 +1,3 @@
-<p align="center">
-    <img width="200" src="https://fv9-2.failiem.lv/thumb_show.php?i=m4fnc24h9&view">
-</p>
-
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
