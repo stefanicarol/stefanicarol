@@ -25,7 +25,7 @@
 
   <h2> Skills: 
   <h2> <img src = "https://img.icons8.com/color/48/000000/flutter.png" width = 32px>  
-  <img src = "https://www.pinclipart.com/picdir/middle/553-5539816_aws-cloud-clipart-transparent-aws-cloud-icon-png.png" width = 32px> 
+  <img src = "https://w7.pngwing.com/pngs/267/118/png-transparent-logo-amazon-com-amazon-web-services-amazon-s3-world-wide-web-text-service-logo.png" width = 32px> 
   <img src = "https://cdn.worldvectorlogo.com/logos/postman.svg" width = 32px></h2>
  
  
