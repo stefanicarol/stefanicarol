@@ -25,11 +25,11 @@
 
   <h2> Skills: 
   <h2> <img src = "https://img.icons8.com/color/48/000000/flutter.png" width = 32px>  
-  <img src = "https://w7.pngwing.com/pngs/267/118/png-transparent-logo-amazon-com-amazon-web-services-amazon-s3-world-wide-web-text-service-logo.png" width = 32px> 
-  <img src = "https://cdn.worldvectorlogo.com/logos/postman.svg" width = 32px></h2>
+  <img src = "https://www.svgrepo.com/show/331300/aws.svg" width = 32px> 
+  <img src = "https://cdn.worldvectorlogo.com/logos/postman.svg" width = 32px> 
+  <img src = "https://cdn.worldvectorlogo.com/logos/dart.svg" width = 32px></h2>
  
- 
- 
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caroldevflutter/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/caroldevflutter)
