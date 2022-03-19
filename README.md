@@ -23,12 +23,15 @@
 
 ⚡ Fun fact: I love animals and musical instruments.
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/stefanicarol?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://img.icons8.com/color/48/000000/flutter.png'> </a>
+  <h2> Skills: 
+  <h2> <img src = "https://img.icons8.com/color/48/000000/flutter.png" width = 32px>  
+  <img src = "https://www.pinclipart.com/picdir/middle/553-5539816_aws-cloud-clipart-transparent-aws-cloud-icon-png.png" width = 32px> 
+  <img src = "https://cdn.worldvectorlogo.com/logos/postman.svg" width = 32px></h2>
+ 
  
  
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caroldevflutter//)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caroldevflutter/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/caroldevflutter)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanicarolsouza/)
  
