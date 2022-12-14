@@ -29,8 +29,7 @@
   <img src = "https://cdn.worldvectorlogo.com/logos/postman.svg" width = 32px> 
   <img src = "https://cdn.worldvectorlogo.com/logos/dart.svg" width = 32px></h2>
  
-
-Discord: FlutterTO https://discord.gg/FUP94paT
+[![Discord](https://assets-global.website-files.com/6257adef93867e50d84d30e2/625eb604bb8605784489d361_Discord-Logo%2BWordmark-Color%20(1).png)](https://discord.gg/FUP94paT) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caroldevflutter/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/caroldevflutter)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanicarolsouza/)
